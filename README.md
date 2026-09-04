@@ -1,1 +1,20 @@
-# construye-aplicaciones-web-Gaca-0843-5J
+<DOCTYPE html>
+<html>
+<head>
+<title>p1practica 1 mi presentacion</title>
+</head>
+<body>
+
+<h1>Mi presentacion</h1>
+<p>Nombre completo:Garcia Alvarez Cristian Ariel</p>
+<p>Edad:16</p>
+<p>Semestre:5</p>
+<p>Grupo:J</p>
+<p>Color favortito:Rojo</p>
+<p>Pasatiempo favorito:Limpiar, jugar y gym</p>
+
+<footer>
+	<p>Garcia alvarez cristian ariel <p/>
+<footer/>
+</body>
+</html>
