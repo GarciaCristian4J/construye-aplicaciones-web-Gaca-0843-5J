@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>HORARIO</title>
+</head>
+<body>
+
+    <h2>HORARIO ESCOLAR</h2>
+
+    <table>
+        <thead>
+            <tr>
+                <th>HORAS</th>
+                <th>LUNES</th>
+                <th>MARTES</th>
+                <th>MIERCOLES</th>
+                <th>JUEVES</th>
+                <th>VIERNES</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>7:00-8:00 </td>
+                <td> </td>
+                <td>5* CH 2</td>
+                <td>5* Apli.Adm</td>
+                <td>5* Apli.Adm</td>
+                <td>5* Ingles5</td>
+            </tr>
+            <tr>
+                <td>8:00-9:00 </td>
+                <td> </td>
+                <td>5* Apli.adm</td>
+                <td>5* CH 2</td>
+                <td>5* Ingles 5</td>
+                <td>5* CH 2</td>
+                
+            </tr>
+            <tr>
+                <td>9:00-10:00</td>
+                <td>5*Ingles 5</td>
+                <td>PRO M4S1</td>
+                <td>PRO M4S1</td>
+                <td>PRO M4S1</td>
+                <td>PRO M4S1</td>
+            </tr>
+            <tr>
+                <td>10:00-10:50</td>
+                <td>5*CNEyT 5</td>
+                <td>PRO M4S1</td>
+                <td>5* Ingles5</td>
+                <td>PROG M4S1</td>
+                <td>PROG M4S1</td>
+            </tr>
+            <tr>
+                <td>10:50-11:10 </td>
+                <td>RECESO</td>
+                <td>RECESO</td>
+                <td>RECESO</td>
+                <td>RECESO</td>
+                <td>RECESO</td>
+                >
+            </tr>
+            <tr>
+                <td>11:10-12:00 </td>
+                <td>PROG M4S2</td>
+                <td>PROG M4S2</td>
+                <td>5*CNEyT</td>
+                <td>PROG M4S2</td>
+                <td>5*CNEyT 5</td>
+                >
+            </tr>
+            <tr>
+                <td>12:00-1:00</td>
+                <td>5*FS</td>
+                <td>5*Ingles</td>
+                <td>5*CNEyT</td>
+                <td>PROG M4S2</td>
+                <td>PROG M4S2</td>
+                
+            </tr>
+            <tr>
+                <td>1:00-2:00</td>
+                <td>5*TSdM2</td>
+                <td>5*TSdM2</td>
+                <td>5*TSdM2</td>
+                <td>5*TSdM2</td>
+                 <td>5*TSdM2</td>
+            </tr>
+        </tbody>
+    </table>
+
+</body>
+</html>
