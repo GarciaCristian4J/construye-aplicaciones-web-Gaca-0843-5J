@@ -4,29 +4,19 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Formularios en HTML</title>
-<h2>Formularios con agrupamiento</h2>
+<h2>Formulario con limitaciones</h2>
 <form action="" method="post">
-<fieldset>
-<legend>Datos personales</legend>
-Nombre y apellido:
-<input type="text" name="nombre_apellido"><br>
-Documento valido:
-<input type="file" name="documento"><br>
-Fecha de nacimiento:
+Ingresa tu nombre:
+<!-- Desahbilitacion de campo -->
+<input type="text" name="nombre" disabled><br>
+<!-- Limitacion de caracteres -->
+Contraseña:
+<input type="password" name="pass" maxlength="5"><br>
+<!-- Solo lectura -->
+Comentarios:
+<textarea name="comentarios" readonly>
 
-<input type="date" name="fecha_nacimiento">
-</fieldset>
-<fieldset>
-<legend>Datos de estudio:</legend>
-Nombre de la escuela:
-<input type="text" name="escuela"><br>
-Certificado valido:
-<input type="file" name="certificado"><br>
-Fecha de egreso:
-<input type="date" name="fecha_egreso">
-</fieldset>
-<br>
-<button type="submit">Enviar <i class="fa-regular fa-paper-plane"></i> </button>
-<button type="reset">Borrar <i class="fa fa-trash"></i></button>
+Este es mi comentario y no se puede borrar
+</textarea><br>
 </form>
 <body>
